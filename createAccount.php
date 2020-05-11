@@ -87,38 +87,6 @@ td {
     &nbsp;
     <input type='submit' name='selection' value='Cancel' />
 </body>
+</html>
 
-<form method='POST'>
-<div style='border-width: 2px'>
-<table>
-<tr>
-  <td>Username</td>
-  <td><input type='text' name='username' /></td>
-</tr>
-<tr>
-  <td>Password</td>
-  <td><input type='password' name='password' /> </td>
-</tr>
-<tr>
-  <td>Confirm Password</td>
-  <td> <input type='password' name='confirm' /></td>
-</tr>
-<tr>
-  <td>Email</td>
-  <td> <input type='text' name='email' /> </td>
-</tr>
-<tr>
-  <td colspan='2' style='text-align: center; background-color: white;'>
-    <input type='submit' name='selection' value='Create Account' />
-    &nbsp;
-    <input type='submit' name='selection' value='Cancel' />
-  </td>
-</tr>
-<tr>
-  <td colspan='2' style='text-align: center; background-color: lightred;'>
-    Warning: This is class project and is not secure!
-  </td>
-</tr>
-</table>
-</div>
-</form>
+
