@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>CSC155 001DR Survey Thing</title>
+<title>CSC155001dr project</title>
 </head>
 <body>
 This is my welcome page for my project.
